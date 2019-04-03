@@ -1,0 +1,20 @@
+{
+  "name": "gibbon",
+  "version": "0.0.4",
+  "description": "More to come!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slammayjammay/gibbon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slammayjammay/gibbon/issues"
+  },
+  "homepage": "https://github.com/slammayjammay/gibbon#readme"
+}
